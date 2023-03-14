@@ -1,0 +1,17 @@
+{
+ 
+ 
+  "name": "Youtube toolkit",
+  "version": "0.0.1",
+  "manifest_version":3,
+  
+  "action":{
+    "default_icon":"21294.png",
+    "default_popup":"popup.html"
+  },
+  
+  "permissions":["active tab"]
+  
+}
+
+ 
